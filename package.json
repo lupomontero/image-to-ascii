@@ -1,0 +1,16 @@
+{
+  "name": "image-to-ascii",
+  "version": "1.0.0",
+  "author": "Lupo Montero <lupomontero@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.2.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.0.0",
+    "jest": "^23.2.0",
+    "webpack": "^4.12.1",
+    "webpack-cli": "^3.0.8",
+    "webpack-dev-server": "^3.1.4"
+  }
+}
