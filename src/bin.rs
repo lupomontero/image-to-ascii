@@ -4,7 +4,7 @@ extern crate image_to_ascii;
 
 
 use clap::{Arg, App};
-use image::GenericImage;
+use image::GenericImageView;
 use image_to_ascii::from_data;
 
 
